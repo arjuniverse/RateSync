@@ -23,4 +23,27 @@ ratesync/
 │── assets/
 
 
+## ▶️ How to Run
+1. Clone or download the repository  
+2. Open `index.html` in your browser  
+3. Start comparing ratings 🎬  
+
+## 🎯 Project Objective
+RateSync was built to:
+- Practice frontend development  
+- Work with API-style data and comparisons  
+- Design a modern, dark UI/UX  
+- Create a user-focused media analytics tool  
+
+## 🌱 Future Enhancements
+- Real-time IMDb / TMDB API integration  
+- User ratings and reviews  
+- Rating trend graphs  
+- Watchlist and favorites  
+- Login and profile support  
+
+## 📄 License
+This project is open-source and intended for learning and educational use.
+
+
 
