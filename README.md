@@ -1,69 +1,22 @@
-🎬 RateSync
+# ⭐ RateSync
 
-RateSync is a modern web application that allows users to rate TV series and compare their personal ratings with IMDb ratings in real time. The platform helps users discover how their taste aligns (or differs) from public ratings through clear visual comparisons and a premium dark UI.
+RateSync is a web application that allows users to compare and sync ratings of movies and TV series from IMDb-style data sources. It helps users view ratings side by side, analyze differences, and understand how opinions vary across platforms or users.
 
-✨ Features
+## ✨ Features
+- Search movies and TV series  
+- View ratings from different sources  
+- Compare rating differences visually  
+- Clean dark-themed UI  
+- Responsive design for all devices  
+- Simple and intuitive user experience  
 
-Browse a curated list of popular TV series
+## 🛠️ Tech Stack
+- HTML  
+- CSS  
+- JavaScript  
 
-View IMDb ratings for each series
+*(Optional upgrade: React + external movie APIs)*
 
-Add, edit, and update personal ratings
-
-Instantly compare IMDb rating vs user rating
-
-Visual difference indicators (higher / lower / same)
-
-Favorites & watchlist support
-
-Search and filter series
-
-🎨 UI & Experience
-
-Premium dark theme with smooth animations
-
-Glassmorphism-style cards
-
-Responsive design for all screen sizes
-
-Clean and intuitive navigation
-
-🛠️ Tech Stack
-
-React (Vite)
-
-Tailwind CSS
-
-JavaScript
-
-Browser localStorage
-
-🔒 Data Handling
-
-All user ratings and preferences are stored locally in the browser using localStorage.
-No backend services or authentication are required.
-
-🚀 Getting Started
-npm install
-npm run dev
+## 📁 Project Structure
 
 
-Open the displayed localhost URL in your browser.
-
-🎓 Project Purpose
-
-This project was built to practice frontend development, state management, UI/UX design, and real-world application logic using modern web technologies.
-
-🌱 Future Enhancements
-
-API-based series fetching
-
-Rating charts and analytics
-
-Social comparison features
-
-User profiles
-
-👤 Author
-
-Built as a personal / academic project.
