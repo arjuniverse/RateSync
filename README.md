@@ -1,5 +1,3 @@
-# ⭐ RateSync
-
 RateSync is a web application that allows users to compare and sync ratings of movies and TV series from IMDb-style data sources. It helps users view ratings side by side, analyze differences, and understand how opinions vary across platforms or users.
 
 ## ✨ Features
@@ -18,5 +16,11 @@ RateSync is a web application that allows users to compare and sync ratings of m
 *(Optional upgrade: React + external movie APIs)*
 
 ## 📁 Project Structure
+ratesync/
+│── index.html
+│── style.css
+│── script.js
+│── assets/
+
 
 
